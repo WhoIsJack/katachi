@@ -4,4 +4,4 @@
 
 This repo will host a simplified python 3 port of the original code written for the paper that first introduced ISLA-CBE; "An Image-Based Data-Driven Analysis of Cellular Architecture in a Developing Tissue" [Hartmann et al., 2020] ([published in eLife](https://elifesciences.org/articles/55913)). The implementation here will be geared toward **reuse** for other projects. If you are looking for the repository that ensures **reproducibility** of the paper's results, see [here](https://github.com/WhoIsJack/data-driven-analysis-lateralline).
 
-*Current ETA for the port: August 2020*
+*Current ETA for the port: October 2020 (delayed due to move to new institute)*
